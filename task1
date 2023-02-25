@@ -1,0 +1,3 @@
+file = PickAFile()
+pic = makepicture(file)
+show(pic)
